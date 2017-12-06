@@ -7,7 +7,7 @@ public class Main {
 				 */
 				System.out.println("123456"); // Цифры как текст
 				System.out.println(1234);// Цифры как цифры
-				System.out.println("Line1\nLine2\n\tLine3\n\t\tLine4");
+				System.out.println("\t\tLine0\nLine1\nLine2\n\tLine3\n\t\tLine4");
 				System.out.println("10+50="+(10+50));
 				System.out.println(10*20);
 				System.out.println(10*20*10);
