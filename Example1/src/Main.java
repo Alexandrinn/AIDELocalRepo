@@ -12,5 +12,7 @@ public class Main {
 				System.out.println(10*20);
 				System.out.println(10*20*10);
 				System.out.println(10*10*10+20*20*20);
+				System.out.println("Goodbye!");
+				
 			}
 	}
